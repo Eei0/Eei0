@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning arduino programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  eeisciler0@gmail.com
+- python programing
+- intermediate c# programing
 
 <!---
 Eei0/Eei0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
